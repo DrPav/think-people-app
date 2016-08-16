@@ -87,9 +87,14 @@ plot_ly(bag[1:15,], y = words, x = freq, type="bar", orientation = "h")
 commons_written_questions$date = ymd(commons_written_questions$date)
 dates = commons_written_questions %>%
   group_by(date) %>%
-  summarise(questions = n()) %>%
-  arrange(date) 
-plot_ly(dates, x = date, y = questions)
+  summarise(questions = n())
+
+all_dates = data.frame(date = seq(min(dates$date), max(dates$date), by = 'days')) %>%
+  left_join(dates)
+all_dates[is.na(all_dates$questions), 'questions'] <- 0
+
+plot_ly(all_dates, x = date, y = questions)
+
 
 #Show the data
 
