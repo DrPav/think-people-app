@@ -2,7 +2,7 @@ library(plotly)
 library(wordcloud)
 shinyServer(function(input, output){
   source("helpers.R")
-  hansard_df = getWrittenQuestions(50)
+  hansard_df = getWrittenQuestions(100)
   bag = makeBagOfWords(hansard_df, "question")
 
   people = hansard_df %>%
@@ -36,5 +36,6 @@ shinyServer(function(input, output){
     plot_ly(all_dates, x = date, y = questions)
   })
     
+  output$dataTable <- renderDataTable(hansard_df, escape = F, options = list(pageLength = 5))
   
 })

@@ -14,10 +14,11 @@ shinyUI(navbarPage("Example dashboard",
                                   column(7,
                                          numericInput("number_of_questions",
                                                       "How far back to go (Number of questions to analyse)",
-                                                      value = 50,
+                                                      value = 100,
                                                       max = 500,
                                                       min = 1))
-                                )
+                                ),
+                                "I have not connected these controls yet. It is to show what options are in the hansard API"
                                 
                               ),
                               fluidRow(
@@ -40,6 +41,14 @@ shinyUI(navbarPage("Example dashboard",
                               fluidRow(
                                 column(5, offset = 1,  plotlyOutput("member_barchart")),
                                 column(5, plotlyOutput("date_linechart"))
+                              ),
+                              br(),
+                              hr(),
+                              h3("Explore the data"),
+                              br(),
+                              fluidRow(
+                                column(5, offset = 1,
+                                       dataTableOutput("dataTable"))
                               )
                             
                             )),
