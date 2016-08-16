@@ -1,0 +1,703 @@
+{ "format" : "linked-data-api", "DDP API Version" : "0.6", "result" : {"_about" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&_pageSize=100&_page=0&AnsweringBody=Department%20for%20Transport", "definition" : "http://lda.data.parliament.uk/meta/commonswrittenquestions.json?_sort=-dateTabled&AnsweringBody=Department%20for%20Transport", "extendedMetadataVersion" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&_metadata=all&_pageSize=100&_page=0&AnsweringBody=Department%20for%20Transport", "first" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&_page=0&AnsweringBody=Department%20for%20Transport", "isPartOf" : {"_about" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&AnsweringBody=Department%20for%20Transport", "definition" : "http://lda.data.parliament.uk/meta/commonswrittenquestions.json?_sort=-dateTabled&AnsweringBody=Department%20for%20Transport", "hasPart" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&_pageSize=100&_page=0&AnsweringBody=Department%20for%20Transport", "type" : "http://purl.org/linked-data/api/vocab#ListEndpoint"}
+    , "items" : [{"_about" : "http://data.parliament.uk/resources/542267", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, with reference to recommendation 22 of the Environmental Audit Committee in its First Report of Session 2015-16, on the Airports Commission Report: carbon emissions, air quality and noise, HC 389, what his policy is on implementing that recommendation as it applies to requiring Heathrow Airport to set out proposals for mitigation.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4062", "label" : {"_value" : "Biography information for Zac Goldsmith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Zac Goldsmith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43997", "uin" : "43997"}
+    , {"_about" : "http://data.parliament.uk/resources/542268", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, with reference to page 307 of the Airports Commission Final Report, published in July 2015, what steps his Department is taking to assess options for a legislative process for permanently banning a fourth runway at Heathrow Airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4062", "label" : {"_value" : "Biography information for Zac Goldsmith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Zac Goldsmith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43998", "uin" : "43998"}
+    , {"_about" : "http://data.parliament.uk/resources/542269", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, with reference to the Answer of 15 October 2015 to Question 10706, and to the letter sent by Network Rail to the hon. Member for Birmingham, Yardley on 14 July 2016, what the expected timescale now is for accessibility alterations for Stechford railway station.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4370", "label" : {"_value" : "Biography information for Jess Phillips"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Jess Phillips"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43982", "uin" : "43982"}
+    , {"_about" : "http://data.parliament.uk/resources/542270", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what rail infrastructure funding his Department is providing to each region in each of the next three years.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1565", "label" : {"_value" : "Biography information for Philip Davies"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Philip Davies"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43946", "uin" : "43946"}
+    , {"_about" : "http://data.parliament.uk/resources/542271", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how the proposals contained in the Bus Services Bill will improve the ability of people with visual or hearing impairments to make use of public transport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4413", "label" : {"_value" : "Biography information for Kirsten Oswald"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Kirsten  Oswald"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43941", "uin" : "43941"}
+    , {"_about" : "http://data.parliament.uk/resources/542273", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether HS2 Ltd has used (a) InSAR surveys and (b) other survey methods to survey ground movements on the proposed route of phase 2B of HS2 between Crewe and Manchester/Leeds.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4506", "label" : {"_value" : "Biography information for Antoinette Sandbach"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Antoinette Sandbach"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43924", "uin" : "43924"}
+    , {"_about" : "http://data.parliament.uk/resources/542274", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if the Government will make it its policy to not take a decision on the location of an additional runway until its reviews of UK airspace and the Aviation Policy Framework have been completed.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4005", "label" : {"_value" : "Biography information for Bob Blackman"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Bob Blackman"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43920", "uin" : "43920"}
+    , {"_about" : "http://data.parliament.uk/resources/542275", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what estimate the Government has made of the cost to the public purse of constructing a third runway at Heathrow Airport over the course of the construction period.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4005", "label" : {"_value" : "Biography information for Bob Blackman"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Bob Blackman"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43919", "uin" : "43919"}
+    , {"_about" : "http://data.parliament.uk/resources/542276", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what training taxi and private hire drivers are required to complete to support blind and partially sighted passengers.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4396", "label" : {"_value" : "Biography information for Rebecca Long Bailey"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Rebecca Long Bailey"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43879", "uin" : "43879"}
+    , {"_about" : "http://data.parliament.uk/resources/542277", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether taxi and private hire vehicles require additional licences while working outside their primary licensing authority area.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4396", "label" : {"_value" : "Biography information for Rebecca Long Bailey"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Rebecca Long Bailey"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43881", "uin" : "43881"}
+    , {"_about" : "http://data.parliament.uk/resources/542278", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will estimate the contribution to the UK economy of airline passengers who have transferred through Heathrow Airport in each of the last three years.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4389", "label" : {"_value" : "Biography information for Ruth Cadbury"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Ruth Cadbury"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43767", "uin" : "43767"}
+    , {"_about" : "http://data.parliament.uk/resources/542279", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what estimate he has made of the level of potential savings to NHS budgets were the targets set out in the Cycling and Walking Investment Strategy to be met.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43768", "uin" : "43768"}
+    , {"_about" : "http://data.parliament.uk/resources/542280", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent progress has been made on the electrification of the Leeds-Harrogate-York railway line.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1540", "label" : {"_value" : "Biography information for Greg Mulholland"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Greg Mulholland"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43776", "uin" : "43776"}
+    , {"_about" : "http://data.parliament.uk/resources/542281", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what change there has been in passenger numbers on trains in West Yorkshire since 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3940", "label" : {"_value" : "Biography information for Craig Whittaker"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Craig Whittaker"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43792", "uin" : "43792"}
+    , {"_about" : "http://data.parliament.uk/resources/542282", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, when his officials last updated the Blue Badge Scheme local authority guidance; whether he plans to update that guidance; and if he will make a statement.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3916", "label" : {"_value" : "Biography information for Michael Dugher"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Michael Dugher"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43801", "uin" : "43801"}
+    , {"_about" : "http://data.parliament.uk/resources/542283", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will take steps to include having dementia and Alzheimer's Disease as criteria for (a) eligibility without further assessment or (b) eligibility subject to further assessment for the Blue Badge Scheme; and if he will make a statement.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3916", "label" : {"_value" : "Biography information for Michael Dugher"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Michael Dugher"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43800", "uin" : "43800"}
+    , {"_about" : "http://data.parliament.uk/resources/542284", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of the number of people using railway stations in West Yorkshire since 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3940", "label" : {"_value" : "Biography information for Craig Whittaker"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Craig Whittaker"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43793", "uin" : "43793"}
+    , {"_about" : "http://data.parliament.uk/resources/542285", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will make it his policy to require Heathrow Airport to pay for relocation for the Lakeside Energy From Waste Facility in the event of that airport being awarded a third runway.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4062", "label" : {"_value" : "Biography information for Zac Goldsmith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Zac Goldsmith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43833", "uin" : "43833"}
+    , {"_about" : "http://data.parliament.uk/resources/542286", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether his Department has undertaken or commissioned an environmental impact assessment of a construction phase for a third runway at Heathrow Airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1516", "label" : {"_value" : "Biography information for Andy Slaughter"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Andy Slaughter"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43837", "uin" : "43837"}
+    , {"_about" : "http://data.parliament.uk/resources/542287", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will estimate the number of long-haul business passengers that will terminate at Heathrow Airport in 2050 (a) with and (b) without a third runway at that airport; and what proportion of those passengers will be (i) UK residents and (ii) foreign visitors.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4404", "label" : {"_value" : "Biography information for Dr Tania Mathias"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Dr Tania Mathias"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43839", "uin" : "43839"}
+    , {"_about" : "http://data.parliament.uk/resources/542288", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps his Department is taking to mark National Road Victim Month which falls in August of each year.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1540", "label" : {"_value" : "Biography information for Greg Mulholland"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Greg Mulholland"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43821", "uin" : "43821"}
+    , {"_about" : "http://data.parliament.uk/resources/542289", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many long-haul business passengers terminated at Heathrow Airport in 2011; and what proportion of those passengers were (a) UK residents and (b) foreign visitors.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4404", "label" : {"_value" : "Biography information for Dr Tania Mathias"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Dr Tania Mathias"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43840", "uin" : "43840"}
+    , {"_about" : "http://data.parliament.uk/resources/542290", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if his Department will require Heathrow Airport to accept the recommendation of the Civil Aviation Authority that night flights at that airport be banned between 11.00pm and 6.00am before the Government makes a decision on airport expansion.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4062", "label" : {"_value" : "Biography information for Zac Goldsmith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Zac Goldsmith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43835", "uin" : "43835"}
+    , {"_about" : "http://data.parliament.uk/resources/542291", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether it is the Government's policy that the airport that is awarded an extra runway must meet the costs of any surface access works required by that expansion.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1516", "label" : {"_value" : "Biography information for Andy Slaughter"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Andy Slaughter"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43836", "uin" : "43836"}
+    , {"_about" : "http://data.parliament.uk/resources/542292", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what (a) models and (b) criteria his Department is using to make a cost and benefit analysis of the effect of the proposed Northwest runway at Heathrow Airport on economic growth and the environmental", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4404", "label" : {"_value" : "Biography information for Dr Tania Mathias"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Dr Tania Mathias"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43838", "uin" : "43838"}
+    , {"_about" : "http://data.parliament.uk/resources/542293", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, in which month he plans to make an announcement on airport expansion.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4404", "label" : {"_value" : "Biography information for Dr Tania Mathias"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Dr Tania Mathias"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43842", "uin" : "43842"}
+    , {"_about" : "http://data.parliament.uk/resources/542294", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment his Department has made of whether there will be an increase in airport-related traffic at Heathrow Airport in the event of that airport being awarded a third runway.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4062", "label" : {"_value" : "Biography information for Zac Goldsmith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Zac Goldsmith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43834", "uin" : "43834"}
+    , {"_about" : "http://data.parliament.uk/resources/542295", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what he plans the timescale to be for the planned public consultation after the Government has made its decision on airport expansion.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4404", "label" : {"_value" : "Biography information for Dr Tania Mathias"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Dr Tania Mathias"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43841", "uin" : "43841"}
+    , {"_about" : "http://data.parliament.uk/resources/542296", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment his Department has made of the potential merits of implementing the recommendation of the Civil Aviation Authority that night flights at Heathrow Airport be banned between 11.00pm and 6.00am on the two runways at that airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1586", "label" : {"_value" : "Biography information for Adam Afriyie"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Adam Afriyie"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43848", "uin" : "43848"}
+    , {"_about" : "http://data.parliament.uk/resources/542297", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what plans his Department has to use the National Noise Attitudes Survey 2014 to update the Government's policy on aviation noise and health costs.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4489", "label" : {"_value" : "Biography information for James Berry"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "James Berry"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43846", "uin" : "43846"}
+    , {"_about" : "http://data.parliament.uk/resources/542298", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment his Department has made of the potential effect on the level of fees charged by Heathrow Airport to airlines in the event of a third runway being built at that airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4489", "label" : {"_value" : "Biography information for James Berry"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "James Berry"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43845", "uin" : "43845"}
+    , {"_about" : "http://data.parliament.uk/resources/542299", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if his Department will request that Heathrow Airport complies with all the conditions set out by the Airports Commission in its final report, published in July 2015, before making an announcement on airport expansion in the UK.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/210", "label" : {"_value" : "Biography information for Kate Hoey"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Kate Hoey"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43873", "uin" : "43873"}
+    , {"_about" : "http://data.parliament.uk/resources/542300", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, with reference to recommendation 11 of the Environmental Audit Committee in its First Report of Session 2015-16, on The Airports Commission Report: carbon emissions, air quality and noise, HC 389, whether his Department has carried out an assessment of the likely costs of preventing an adverse impact on health from expansion at Heathrow Airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4389", "label" : {"_value" : "Biography information for Ruth Cadbury"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Ruth Cadbury"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43874", "uin" : "43874"}
+    , {"_about" : "http://data.parliament.uk/resources/540946", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many deaths of cyclists on roads there were in (a) St Helens North constituency, (b) Merseyside, (c) the North West and (d) the UK in each of the last five years.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4458", "label" : {"_value" : "Biography information for Conor McGinn"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Conor McGinn"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43625", "uin" : "43625"}
+    , {"_about" : "http://data.parliament.uk/resources/541085", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how much his Department has spent in addition to his Department's obligations under franchise agreements on driver training or driver recruitment by each train operating company since May 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43561", "uin" : "43561"}
+    , {"_about" : "http://data.parliament.uk/resources/541086", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many people working for his Department or its executive agencies on a (a) directly employed, (b) agency or (c) outsourced basis are paid less than the living wage as defined by the Living Wage Foundation; and how many of those people are employed on zero-hours contracts.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/478", "label" : {"_value" : "Biography information for Frank Field"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Frank Field"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43511", "uin" : "43511"}
+    , {"_about" : "http://data.parliament.uk/resources/541087", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many platform train interface incidents have been reported on the national rail network in each year since 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43552", "uin" : "43552"}
+    , {"_about" : "http://data.parliament.uk/resources/541089", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether the environmental assurance work his Department undertook in December 2015 in connection with runway expansion has been completed; and what the estimated cost of that work was to the public purse on the latest date for which figures are available.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43553", "uin" : "43553"}
+    , {"_about" : "http://data.parliament.uk/resources/541090", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent assessment he has made of the effectiveness of automated ticket machines in ensuring that rail commuters are always offered the lowest fare.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4105", "label" : {"_value" : "Biography information for Justin Tomlinson"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Justin Tomlinson"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43483", "uin" : "43483"}
+    , {"_about" : "http://data.parliament.uk/resources/541091", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 27 June 2016 to Question 40827, what his Department's revenue expenditure other than Network Rail expenditure was on the level crossing reform programme in the last Parliament; and how much such expenditure is budgeted for during the current Parliament.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43498", "uin" : "43498"}
+    , {"_about" : "http://data.parliament.uk/resources/541093", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what discussions he has had with his European counterparts on promoting (a) a sulphur limit and (b) decarbonisation measures through the International Maritime Organisation.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/301", "label" : {"_value" : "Biography information for Richard Burden"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Richard Burden"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43521", "uin" : "43521"}
+    , {"_about" : "http://data.parliament.uk/resources/541094", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what progress has been made in implementing smart ticketing across the rail network; and if he will make a statement.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4105", "label" : {"_value" : "Biography information for Justin Tomlinson"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Justin Tomlinson"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43491", "uin" : "43491"}
+    , {"_about" : "http://data.parliament.uk/resources/541095", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 17 June 2016 to Question 40286, asked by the hon. Member for Greenwich and Woolwich, what the title is of the group that meets monthly.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43657", "uin" : "43657"}
+    , {"_about" : "http://data.parliament.uk/resources/541096", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 9 May 2016 to Question 36626, what contributions he expects the Local Enterprise Partnerships to make towards the cost of the Market Harborough straightening works.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43656", "uin" : "43656"}
+    , {"_about" : "http://data.parliament.uk/resources/541097", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many cyclists died as a result of road traffic incident in each year since 2010 in (a) Redcar, (b) the North East and (c) the UK.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4449", "label" : {"_value" : "Biography information for Anna Turley"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Anna Turley"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43614", "uin" : "43614"}
+    , {"_about" : "http://data.parliament.uk/resources/541098", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, when he expects Network Rail to publish an update to its industry electrification strategy.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1540", "label" : {"_value" : "Biography information for Greg Mulholland"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Greg Mulholland"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43597", "uin" : "43597"}
+    , {"_about" : "http://data.parliament.uk/resources/541099", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent discussions he has had with the Chancellor of the Exchequer about the introduction of tolls on the Mersey Gateway and Silver Jubilee bridges; and whether a decision has been taken on discounts for local businesses and residents.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/483", "label" : {"_value" : "Biography information for Maria Eagle"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Maria Eagle"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43608", "uin" : "43608"}
+    , {"_about" : "http://data.parliament.uk/resources/541100", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether the average accident rate is higher on dual carriageways than on three lane roads.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1408", "label" : {"_value" : "Biography information for Mr Hugo Swire"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Hugo Swire"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43722", "uin" : "43722"}
+    , {"_about" : "http://data.parliament.uk/resources/541101", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether dual carriageways are more expensive to build than three lane roads.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1408", "label" : {"_value" : "Biography information for Mr Hugo Swire"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Hugo Swire"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43723", "uin" : "43723"}
+    , {"_about" : "http://data.parliament.uk/resources/541102", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will re-evaluate the dualling of the entire A303/A30 corridor.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1408", "label" : {"_value" : "Biography information for Mr Hugo Swire"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Hugo Swire"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43724", "uin" : "43724"}
+    , {"_about" : "http://data.parliament.uk/resources/541103", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether his Department will (a) approve and (b) fund the upgrade of the A303/A30 between Southfields and Honiton.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1408", "label" : {"_value" : "Biography information for Mr Hugo Swire"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Hugo Swire"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43725", "uin" : "43725"}
+    , {"_about" : "http://data.parliament.uk/resources/541104", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what criteria he will use to determine eligibility for discounted travel as part of the local discount scheme when tolls on the Mersey Gateway and Silver Jubilee bridges are introduced.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/483", "label" : {"_value" : "Biography information for Maria Eagle"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Maria Eagle"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43610", "uin" : "43610"}
+    , {"_about" : "http://data.parliament.uk/resources/541271", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what funding he is making available to (a) Warrington and Cheshire West and (b) Chester councils to enable residents to travel toll-free across the Mersey Gateway Bridge and Silver Jubilee Bridge when they open in 2017.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/483", "label" : {"_value" : "Biography information for Maria Eagle"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Maria Eagle"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43667", "uin" : "43667"}
+    , {"_about" : "http://data.parliament.uk/resources/541272", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, when he plans that the new platforms at London Bridge Station will become operational.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43716", "uin" : "43716"}
+    , {"_about" : "http://data.parliament.uk/resources/541273", "AnswerDate" : {"_value" : "2016-09-05", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what progress he has made on ensuring financial support will be made available for local businesses in Knowsley and Liverpool once tolls are introduced on the Mersey Gateway bridge.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/483", "label" : {"_value" : "Biography information for Maria Eagle"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Maria Eagle"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43701", "uin" : "43701"}
+    , {"_about" : "http://data.parliament.uk/resources/540094", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether the requirements for the Great Northern and Thameslink services to be Driver Only Operation contained in the Invitation to Tender for the Govia Thameslink Railway (GTR) Franchise apply to all other services across that franchise; what agreement is in place between GTR and his Department on Driver Only Operation; and if he will place that agreement in the public domain.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3930", "label" : {"_value" : "Biography information for Caroline Lucas"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Caroline Lucas"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43366", "uin" : "43366"}
+    , {"_about" : "http://data.parliament.uk/resources/540095", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps his Department is taking to help define the fair share contribution for the global shipping sector as part of the International Maritime Organisation's work on tackling climate change.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/301", "label" : {"_value" : "Biography information for Richard Burden"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Richard Burden"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43370", "uin" : "43370"}
+    , {"_about" : "http://data.parliament.uk/resources/540096", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of levels of passenger satisfaction with light rail systems.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1540", "label" : {"_value" : "Biography information for Greg Mulholland"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Greg Mulholland"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43320", "uin" : "43320"}
+    , {"_about" : "http://data.parliament.uk/resources/540097", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent discussions he has had with the Consumer Council on UK ferry operators and their pricing structures.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4381", "label" : {"_value" : "Biography information for Danny Kinahan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Danny Kinahan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43341", "uin" : "43341"}
+    , {"_about" : "http://data.parliament.uk/resources/540098", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent discussions he has had with UK ferry operators on their pricing structures.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4381", "label" : {"_value" : "Biography information for Danny Kinahan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Danny Kinahan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43342", "uin" : "43342"}
+    , {"_about" : "http://data.parliament.uk/resources/540099", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will assess the level of charges by ferry companies to cross the Irish Sea.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4381", "label" : {"_value" : "Biography information for Danny Kinahan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Danny Kinahan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43343", "uin" : "43343"}
+    , {"_about" : "http://data.parliament.uk/resources/540100", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 20 June 2016 to Question 40374, what the estimated values are of Network Rail's costs referred to in that Answer by (a) costs incurred with the supplier, (b) installation and (c) operational costs for the (i) Cardiff and (ii) Romford Rail Operating Centre.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43345", "uin" : "43345"}
+    , {"_about" : "http://data.parliament.uk/resources/540101", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether under the terms of its franchise agreement Govia Thameslink Railway is required to consult stakeholders before introducing a change to the timetable for its services.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/2", "label" : {"_value" : "Biography information for Kelvin Hopkins"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Kelvin Hopkins"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43420", "uin" : "43420"}
+    , {"_about" : "http://data.parliament.uk/resources/539699", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many traffic surveys and counts his Department has conducted in Bury St Edmunds constituency since 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4380", "label" : {"_value" : "Biography information for Jo Churchill"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Jo Churchill"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43191", "uin" : "43191"}
+    , {"_about" : "http://data.parliament.uk/resources/539700", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what recent research his Department has conducted on (a) the merits of static speed cameras and (b) the effect of conspicuously marking such cameras on their effectiveness.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/197", "label" : {"_value" : "Biography information for Jim Fitzpatrick"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Jim Fitzpatrick"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43095", "uin" : "43095"}
+    , {"_about" : "http://data.parliament.uk/resources/539701", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what progress he has made on providing a further round of accessibility funding for (a) lifts and (b) other accessibility devices at mainline railway stations; and if he will make a statement.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4519", "label" : {"_value" : "Biography information for James Cartlidge"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "James Cartlidge"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43142", "uin" : "43142"}
+    , {"_about" : "http://data.parliament.uk/resources/539702", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what the official distances between London and Birmingham are for the (a) shortest journey by road, (b) shortest existing journey by rail and (c) projected High Speed 2 line.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42979", "uin" : "42979"}
+    , {"_about" : "http://data.parliament.uk/resources/539703", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether the performance of Southern Railway Limited for the period 11 to 18 July 2016 met the specified benchmarks in the Remedial Plan.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4510", "label" : {"_value" : "Biography information for Helen Hayes"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Helen Hayes"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42957", "uin" : "42957"}
+    , {"_about" : "http://data.parliament.uk/resources/539704", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 17 June 2016 to Question 40332, on Thameslink railway line: rolling stock, whether his Department has received any representations from trade unions on the potential safety implications of operating Class 700 trains under Driver Only Operation or Driver Controlled Operation.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4029", "label" : {"_value" : "Biography information for Lilian Greenwood"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Lilian Greenwood"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43011", "uin" : "43011"}
+    , {"_about" : "http://data.parliament.uk/resources/539705", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, which fees (a) have been paid and (b) are due to be paid to Tim Mould QC for work relating to High Speed 2.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43023", "uin" : "43023"}
+    , {"_about" : "http://data.parliament.uk/resources/539706", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what the (a) staff, (b) recruitment and (c) other costs of press liaison, publicity and marketing of High Speed 2 have been to date.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43088", "uin" : "43088"}
+    , {"_about" : "http://data.parliament.uk/resources/539707", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of the potential economic benefit to Bradford of any expansion of Heathrow.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4391", "label" : {"_value" : "Biography information for Judith Cummins"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Judith Cummins"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43029", "uin" : "43029"}
+    , {"_about" : "http://data.parliament.uk/resources/539708", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of the potential economic effect on the West Yorkshire area of improvement of the road network between Huddersfield and Bradford.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3940", "label" : {"_value" : "Biography information for Craig Whittaker"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Craig Whittaker"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43119", "uin" : "43119"}
+    , {"_about" : "http://data.parliament.uk/resources/539709", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of the potential economic effect on the West Yorkshire area of an additional junction on the M62 between junctions 24 and 25.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/3940", "label" : {"_value" : "Biography information for Craig Whittaker"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Craig Whittaker"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43118", "uin" : "43118"}
+    , {"_about" : "http://data.parliament.uk/resources/539805", "AnswerDate" : {"_value" : "2016-07-21", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, when a decision will be made on the expansion of London City Airport.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/474", "label" : {"_value" : "Biography information for Mr Nigel Evans"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Nigel Evans"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43272", "uin" : "43272"}
+    , {"_about" : "http://data.parliament.uk/resources/539806", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 13 June 2016 to Question 39611, when he plans to consider whether there is a good business case and funding available for the eastern branch of Crossrail 2.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/163", "label" : {"_value" : "Biography information for Stephen Timms"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Stephen Timms"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43240", "uin" : "43240"}
+    , {"_about" : "http://data.parliament.uk/resources/539807", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how much his Department spent on transport infrastructure projects in (a) Bury St Edmunds constituency and (b) Suffolk in each year from 2010-11 to 2015-16.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4380", "label" : {"_value" : "Biography information for Jo Churchill"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Jo Churchill"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 43248", "uin" : "43248"}
+    , {"_about" : "http://data.parliament.uk/resources/536719", "AnswerDate" : {"_value" : "2016-07-19", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-15", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what comparative assessment he has made of the effect on the environment of vehicles using (a) diesel and (b) liquefied petroleum gas.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4478", "label" : {"_value" : "Biography information for Royston Smith"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Royston Smith"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42937", "uin" : "42937"}
+    , {"_about" : "http://data.parliament.uk/resources/536516", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, in which reporting periods Southern Railway's performance met the specified benchmarks set out in the franchise agreement since that agreement was signed.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4510", "label" : {"_value" : "Biography information for Helen Hayes"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Helen Hayes"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42865", "uin" : "42865"}
+    , {"_about" : "http://data.parliament.uk/resources/536517", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 14 July 2016 to Question 42538, what the timescale is for updating the Cycle to Work scheme guidance published on gov.uk; and when he expects to reach a decision on the maximum allowance for disabled cyclists.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4510", "label" : {"_value" : "Biography information for Helen Hayes"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Helen Hayes"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42866", "uin" : "42866"}
+    , {"_about" : "http://data.parliament.uk/resources/536185", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will conduct a study on the potential merits and feasibility of upgrading the trunk road section of the A595 in 2016.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1503", "label" : {"_value" : "Biography information for Mr Jamie Reed"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Jamie Reed"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42628", "uin" : "42628"}
+    , {"_about" : "http://data.parliament.uk/resources/536186", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps he is taking to improve the safety of passengers at train stations in London.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4131", "label" : {"_value" : "Biography information for Jim Shannon"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Jim Shannon"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42603", "uin" : "42603"}
+    , {"_about" : "http://data.parliament.uk/resources/536308", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many reports of non-compliant vehicles were sent by the DVLA to NSL Services Ltd in the last year for which information is available; and how many such reports resulted in enforcement action being taken.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/242", "label" : {"_value" : "Biography information for Mr Christopher Chope"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mr Christopher Chope"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42764", "uin" : "42764"}
+    , {"_about" : "http://data.parliament.uk/resources/536310", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, how many motorway service stations have rapid chargers installed to allow charging of electric vehicles in (a) Liverpool City Region and (b) England.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4036", "label" : {"_value" : "Biography information for Luciana Berger"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Luciana Berger"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42737", "uin" : "42737"}
+    , {"_about" : "http://data.parliament.uk/resources/535572", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what level of change to train services by (a) scheduled departure and (b) number of carriages provided by Southern Railway Limited the Government has agreed under the conditions of its franchise with that company.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4510", "label" : {"_value" : "Biography information for Helen Hayes"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Helen Hayes"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42467", "uin" : "42467"}
+    , {"_about" : "http://data.parliament.uk/resources/535573", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what assessment he has made of the potential benefits to local communities of rail electrification in South Wales.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4572", "label" : {"_value" : "Biography information for Chris Elmore"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Chris Elmore"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42463", "uin" : "42463"}
+    , {"_about" : "http://data.parliament.uk/resources/535574", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 11 July 2016 to Question 41675, on shipping: exhaust emissions, what legal and technical barriers his Department has identified that could restrict the growth in green technologies in shipping.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/301", "label" : {"_value" : "Biography information for Richard Burden"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Richard Burden"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42520", "uin" : "42520"}
+    , {"_about" : "http://data.parliament.uk/resources/535575", "AnswerDate" : {"_value" : "2016-07-20", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, for what reason his Department deploys speed cameras that photograph vehicles from the front in addition to speed cameras that photograph vehicles from the rear; and for what reasons his Department does not have a single policy on the deployment of such cameras.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1200", "label" : {"_value" : "Biography information for Sir Greg Knight"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Sir Greg Knight"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42547", "uin" : "42547"}
+    , {"_about" : "http://data.parliament.uk/resources/535576", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will amend the Cycle to Work scheme to incorporate a higher maximum allowance for disabled cyclists requiring specialist cycles.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4510", "label" : {"_value" : "Biography information for Helen Hayes"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Helen Hayes"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42538", "uin" : "42538"}
+    , {"_about" : "http://data.parliament.uk/resources/536309", "AnswerDate" : {"_value" : "2016-07-18", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-12", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps he is taking to improve the maintenance and safety of unadopted roads.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4447", "label" : {"_value" : "Biography information for Maggie Throup"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Maggie Throup"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 905889", "uin" : "905889"}
+    , {"_about" : "http://data.parliament.uk/resources/535303", "AnswerDate" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, if he will provide a schedule of documents held by his Department relating to the disappearance of Rebecca Coriam from the Disney Wonder cruise ship in March 2011 and the investigation into that disappearance.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4408", "label" : {"_value" : "Biography information for Christian Matheson"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Christian Matheson"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42329", "uin" : "42329"}
+    , {"_about" : "http://data.parliament.uk/resources/535304", "AnswerDate" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, by what date his Department expects the replacement of Pacer trains on the Tees Valley Line to be completed.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4449", "label" : {"_value" : "Biography information for Anna Turley"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Anna Turley"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42343", "uin" : "42343"}
+    , {"_about" : "http://data.parliament.uk/resources/535305", "AnswerDate" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps his Department is taking to improve journey times on the Tees Valley Line.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4449", "label" : {"_value" : "Biography information for Anna Turley"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Anna Turley"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42344", "uin" : "42344"}
+    , {"_about" : "http://data.parliament.uk/resources/535306", "AnswerDate" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what steps his Department is taking to support disabled passengers and passengers of reduced mobility on the Tees Valley Line for the duration of operation of Pacer trains.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4449", "label" : {"_value" : "Biography information for Anna Turley"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Anna Turley"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42345", "uin" : "42345"}
+    , {"_about" : "http://data.parliament.uk/resources/535307", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what the total expenditure on the High Speed 2 project has been in each year since 2010.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42287", "uin" : "42287"}
+    , {"_about" : "http://data.parliament.uk/resources/535308", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what the planned start date is for construction of High Speed 2 Phase One.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42288", "uin" : "42288"}
+    , {"_about" : "http://data.parliament.uk/resources/535309", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, what progress has been made by his Department and train operating companies on ensuring compliance with the relevant legislative provisions by the expiry date of the (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) (Amendment) Order 2016 in October 2016.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/4505", "label" : {"_value" : "Biography information for Peter Kyle"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Peter Kyle"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42304", "uin" : "42304"}
+    , {"_about" : "http://data.parliament.uk/resources/535310", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, pursuant to the Answer of 23 May 2016 to Question 37232, what assessment his Department made of the potential vehicular capacity of the two long tunnel options for the Lower Thames Crossing connected either (a) through junctions 2 and 30 on the M25 or (b) by direct connection to the motorway beyond the junctions.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/1522", "label" : {"_value" : "Biography information for Adam Holloway"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Adam Holloway"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42305", "uin" : "42305"}
+    , {"_about" : "http://data.parliament.uk/resources/535311", "AnswerDate" : {"_value" : "2016-07-14", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, whether his Department plans to include provisions in the Modern Transport Bill to (a) develop a licensing regime for the sale of safe driverless vehicles and (b) establish regulations for driverless vehicles in the testing phase.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/301", "label" : {"_value" : "Biography information for Richard Burden"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Richard Burden"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42306", "uin" : "42306"}
+    , {"_about" : "http://data.parliament.uk/resources/535312", "AnswerDate" : {"_value" : "2016-07-13", "_datatype" : "dateTime"}
+      , "AnsweringBody" : [{"_value" : "Department for Transport"}
+      ], "dateTabled" : {"_value" : "2016-07-11", "_datatype" : "dateTime"}
+      , "questionText" : "To ask the Secretary of State for Transport, with reference to the Report of the HS2 Residents' Commissioner, published in May 2016, what steps his Department and HS2 Ltd have taken to introduce a newsletter for affected residents.", "tablingMember" : {"_about" : "http://data.parliament.uk/members/18", "label" : {"_value" : "Biography information for Mrs Cheryl Gillan"}
+      }
+      , "tablingMemberPrinted" : [{"_value" : "Mrs Cheryl Gillan"}
+      ], "title" : "House of Commons Tabled Parliamentary Question 2016/17 42327", "uin" : "42327"}
+    ], "itemsPerPage" : 100, "next" : "http://lda.data.parliament.uk/commonswrittenquestions.json?_sort=-dateTabled&_page=1&AnsweringBody=Department%20for%20Transport", "page" : 0, "startIndex" : 1, "totalResults" : 8013, "type" : "http://purl.org/linked-data/api/vocab#Page"}
+}

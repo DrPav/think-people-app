@@ -2,6 +2,8 @@ library(jsonlite)
 library(dplyr)
 library(tm)
 library(wordcloud)
+library(plotly)
+library(lubridate)
 #Getting the data
 #http://explore.data.parliament.uk/
 #There are Lords/commons written/oral questions
@@ -67,10 +69,27 @@ bag = data.frame( words = rownames(bag), freq = rowSums(bag)) %>%
 wordcloud(bag$words, bag$freq)
 
 #Plot bar chart of who asked the questions
+people = commons_written_questions %>%
+  group_by(member) %>%
+  summarise(questions = n()) %>%
+  as.data.frame() %>%
+  arrange(desc(questions))
+
+
+#take top 15 people
+plot_ly(people[1:15,], y = member, x = questions, type="bar", orientation = "h")
+
 
 #Plot word counts
+plot_ly(bag[1:15,], y = words, x = freq, type="bar", orientation = "h")
 
 #Plot timeline somewhow
+commons_written_questions$date = ymd(commons_written_questions$date)
+dates = commons_written_questions %>%
+  group_by(date) %>%
+  summarise(questions = n()) %>%
+  arrange(date) 
+plot_ly(dates, x = date, y = questions)
 
 #Show the data
 
