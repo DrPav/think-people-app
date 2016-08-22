@@ -16,7 +16,8 @@ shinyUI(navbarPage("Example dashboard",
                                                       "How far back to go (Number of questions to analyse, max 500)",
                                                       value = 25,
                                                       max = 500,
-                                                      min = 1))
+                                                      min = 1, 
+                                                      step = 25))
                                 ),
                                 "I have not connected these controls yet. It is to show what options are in the hansard API"
                                 

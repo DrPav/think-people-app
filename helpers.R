@@ -1,7 +1,7 @@
 #Functions
 #Get written questions and return the dataframe
 #NNumber of questions can be between 1 and 500
-getWrittenQuestions <- function(number_of_questions){
+getWrittenQuestions <- function(number_of_questions, hansard_type){
   require(jsonlite)
   require(curl)
   require(dplyr)
@@ -10,11 +10,13 @@ getWrittenQuestions <- function(number_of_questions){
   #Set the page size up to 500. Longer is slower
   #Filtered to the department for transport and sorted in reverse chronological (newest first)
   
-  #temp_file = "hansardData.json" #Need to download somewhere
+  #Example URL
+  #http://lda.data.parliament.uk/commonswrittenquestions.json?_pageSize=50&_page=0&AnsweringBody=Department%20for%20Transport&_sort=-dateTabled
   
-  prefix = "http://lda.data.parliament.uk/commonswrittenquestions.json?_pageSize="
+  prefix1 = "http://lda.data.parliament.uk/"
+  prefix2 = ".json?_pageSize="
   suffix = "&_page=0&AnsweringBody=Department%20for%20Transport&_sort=-dateTabled"
-  url = paste0(prefix, number_of_questions, suffix)
+  url = paste0(prefix1, hansard_type, prefix2,  number_of_questions, suffix)
   req = curl_fetch_memory(url)
   content = rawToChar(req$content)
   #download.file(url, temp_file, method = "auto")

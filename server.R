@@ -4,7 +4,7 @@ shinyServer(function(input, output){
   source("helpers.R")
   
   hansardDF <- reactive({
-    getWrittenQuestions(input$number_of_questions)
+    getWrittenQuestions(input$number_of_questions, "commonswrittenquestions")
   })
   
   bag <- reactive({
