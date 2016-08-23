@@ -4,7 +4,7 @@ shinyServer(function(input, output){
   source("helpers.R")
   
   hansardDF <- reactive({
-    getWrittenQuestions(input$number_of_questions, "commonswrittenquestions")
+    getWrittenQuestions(input$number_of_questions, input$question_type)
   })
   
   bag <- reactive({
@@ -29,18 +29,21 @@ shinyServer(function(input, output){
   
   output$wordcloud <- renderPlot({
     x = bag()
-    wordcloud(x$words, x$freq, max.words = input$wordsToDisplay)
+    wordcloud(x$words, x$freq, max.words = input$wordsToDisplay, colors = "#1F77B4")
   })
   
   output$words_barchart <- renderPlotly({
     b = bag()
-    plot_ly(b[1:input$wordsBarChart,], y = words, x = freq, type="bar", orientation = "h")
+    plot_ly(b[1:input$wordsBarChart,], y = words, x = freq, type="bar", orientation = "h") %>%
+      layout(yaxis = list(title = ""), hovermode = 'closest')
+
     
   })
   
   output$member_barchart <- renderPlotly({
     p = people()
-    plot_ly(p[1:15,], y = member, x = questions, type="bar", orientation = "h")
+    plot_ly(p[1:15,], y = member, x = questions, type="bar", orientation = "h") %>%
+      layout(yaxis = list(title = ""), hovermode = 'closest')
   })
   
   output$date_linechart <- renderPlotly({

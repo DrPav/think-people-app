@@ -6,11 +6,11 @@ shinyUI(navbarPage("Example dashboard",
                                 fluidRow(
                                   column(4, offset = 1,
                                          selectInput("question_type",
-                                                     label = "Type of parlimentary question",
-                                                     choices = c("Commons written question",
-                                                                 "Commons oral question",
-                                                                 "Lords written question",
-                                                                 "Lords oral question"))),
+                                                     label = "Type of parlimentary questions",
+                                                     choices = list("Commons written questions" = "commonswrittenquestions",
+                                                                 "Commons oral questiosn" = "commonsoralquestions",
+                                                                 "Lords written questions" = "lordswrittenquestions"))),
+                                                                 #"Lords oral questions"))), #Doesn't exist yet
                                   column(7,
                                          numericInput("number_of_questions",
                                                       "How far back to go (Number of questions to analyse, max 500)",
@@ -18,9 +18,7 @@ shinyUI(navbarPage("Example dashboard",
                                                       max = 500,
                                                       min = 1, 
                                                       step = 25))
-                                ),
-                                "I have not connected these controls yet. It is to show what options are in the hansard API"
-                                
+                                )
                               ),
                               fluidRow(
                                 column(5, offset = 1,
@@ -37,7 +35,9 @@ shinyUI(navbarPage("Example dashboard",
                                                 numericInput("wordsBarChart",
                                                              "How many words to plot in the bar chart?",
                                                              value = 15))
-                                         )
+                                         ),
+                                fluidRow(column(10, offset = 1,
+                                                "The following words have been removed; ask, secretary, state, transport, department, majesty's, government, plus all common stopwords in English (the, at, too, me, I, he....)"))
                               ),
                               fluidRow(
                                 column(5, offset = 1,  plotlyOutput("member_barchart")),
@@ -50,8 +50,17 @@ shinyUI(navbarPage("Example dashboard",
                               fluidRow(
                                 column(5, offset = 1,
                                        dataTableOutput("dataTable"))
-                              )
+                              ),
+                              hr(),
+                              fluidRow(column(10, offset = 1,
+                                              p("Data taken from the ", 
+                                                a("Hansard API", href = "http://explore.data.parliament.uk/")),
+                                              p("Code and contact details are on ", 
+                                                a("Github", href = "https://github.com/DrPav/think-people-app"))
+                                              
+                              ))
+                              
                             
                             )),
-                   tabPanel("Twitter")
+                   tabPanel("Twitter", "Possible expansion analysing words from Twitter API")
 ))
