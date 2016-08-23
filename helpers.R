@@ -52,7 +52,9 @@ makeBagOfWords <- function(hansard_df, text_col_name){
                    "(b)",
                    "(c)",
                    "government",
-                   "majesty's")
+                   "majesty's",
+                   "majestys", 
+                   "majesty")
   
   removeHtmlTags <- function(htmlString) {
     return(gsub("<.*?>", "", htmlString))
